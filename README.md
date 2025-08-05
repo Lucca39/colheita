@@ -1,3 +1,3 @@
 # colheita
 
-<img src="labubu/images.jpeg" alt="Calculator Screenshot" />
+<img src="pibble.png" alt="Calculator Screenshot" />
